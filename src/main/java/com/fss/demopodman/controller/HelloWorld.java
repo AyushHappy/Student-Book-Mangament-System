@@ -17,7 +17,7 @@ public class HelloWorld {
     }
     @GetMapping(path = "/HI")
     public String hi(){
-        return "hi";
+        return "hiiiiiiiiiiii";
     }
 
     @Value("${message}")
